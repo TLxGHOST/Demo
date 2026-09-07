@@ -1,0 +1,3 @@
+The Quantum Gizmo V2 is a next-generation smart home device released in 2026. 
+It features a 48-hour battery life, solar-charging capabilities, and completely local voice processing for maximum privacy. 
+Unlike the V1, the V2 is fully waterproof up to 50 meters and comes in three colors: Midnight Black, Solar Yellow, and Nebula Purple.
